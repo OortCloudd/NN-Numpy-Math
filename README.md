@@ -2,4 +2,4 @@ Implementation by hand of a neural network with only Numpy & Math
 
 
 
-This helps understanding the foundations of AI better
+This enhances an understanding of global AI architectures
