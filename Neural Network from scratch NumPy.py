@@ -17,7 +17,7 @@ df_train = df[1000:m].T
 y_train = df_train[0]
 x_train = df_train[1:n]
 x_train = x_train / 255
-m_train = x_train.shape
+_,m_train = x_train.shape
 
 def init_params():
     W1 = np.random.rand(10, 784) - 0.5
